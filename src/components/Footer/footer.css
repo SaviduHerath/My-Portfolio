@@ -1,0 +1,38 @@
+.footer {
+  background-color: rgb(14, 13, 13); /* Dark footer */
+  color: #fff;
+  text-align: center;
+  padding: 30px 0;
+}
+
+.footer-links a {
+  margin: 0 15px;
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.footer-links a:hover {
+  color: #1e90ff; /* Example hover color */
+}
+
+.footer-social .social-icon {
+  width: 30px;
+  margin: 0 10px;
+  transition: transform 0.2s;
+}
+
+.footer-social .social-icon:hover {
+  transform: scale(1.2);
+}
+
+.footer-contact p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.footer-copy {
+  margin-top: 15px;
+  font-size: 12px;
+  color: #aaa;
+}
