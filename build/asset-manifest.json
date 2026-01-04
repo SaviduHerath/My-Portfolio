@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.0324b109.css",
+    "main.js": "/My-Portfolio/static/js/main.8eff5b51.js",
+    "static/js/453.3f1fb51b.chunk.js": "/My-Portfolio/static/js/453.3f1fb51b.chunk.js",
+    "static/media/logoT.png": "/My-Portfolio/static/media/logoT.71aa17476baeb2fbe3eb.png",
+    "static/media/cv.pdf": "/My-Portfolio/static/media/cv.3e54b74a6279b140611e.pdf",
+    "static/media/bg.jpeg": "/My-Portfolio/static/media/bg.7e319d889c2b42192b19.jpeg",
+    "static/media/vscode.jpg": "/My-Portfolio/static/media/vscode.f5a80f4f1a3387eff3bd.jpg",
+    "static/media/react.jpg": "/My-Portfolio/static/media/react.4d4ccb840f6c5b6ccc3a.jpg",
+    "static/media/css.jpg": "/My-Portfolio/static/media/css.e90ea04db37fe7e6570f.jpg",
+    "static/media/java.jpg": "/My-Portfolio/static/media/java.82f80171ed1a902e671b.jpg",
+    "static/media/html.jpg": "/My-Portfolio/static/media/html.f8992745b2f448204b31.jpg",
+    "static/media/calculater.jpg": "/My-Portfolio/static/media/calculater.a77e48c564e68b91ca88.jpg",
+    "static/media/stopwatch.jpg": "/My-Portfolio/static/media/stopwatch.c59b069f4e64f000ac1d.jpg",
+    "static/media/linkedin.jpg": "/My-Portfolio/static/media/linkedin.3a8a7459dec022a30c91.jpg",
+    "static/media/js.jpg": "/My-Portfolio/static/media/js.b28cbbd01e6447f4ba1c.jpg",
+    "static/media/mysql.jpg": "/My-Portfolio/static/media/mysql.57a92dcab544e2f84fac.jpg",
+    "static/media/git.jpg": "/My-Portfolio/static/media/git.6e37330370ce4bdf08f1.jpg",
+    "static/media/mongodb.jpg": "/My-Portfolio/static/media/mongodb.d7f7c9aba6bd24754576.jpg",
+    "static/media/download.png": "/My-Portfolio/static/media/download.3414d1a15292a302f0d1.png",
+    "static/media/Digital_clock.jpg": "/My-Portfolio/static/media/Digital_clock.2a4e100e65284def35f0.jpg",
+    "static/media/ui-design.png": "/My-Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/My-Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.0324b109.css.map": "/My-Portfolio/static/css/main.0324b109.css.map",
+    "main.8eff5b51.js.map": "/My-Portfolio/static/js/main.8eff5b51.js.map",
+    "453.3f1fb51b.chunk.js.map": "/My-Portfolio/static/js/453.3f1fb51b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0324b109.css",
+    "static/js/main.8eff5b51.js"
+  ]
+}
