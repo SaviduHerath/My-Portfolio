@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.0324b109.css",
-    "main.js": "/My-Portfolio/static/js/main.8eff5b51.js",
-    "static/js/453.3f1fb51b.chunk.js": "/My-Portfolio/static/js/453.3f1fb51b.chunk.js",
+    "main.css": "/My-Portfolio/static/css/main.f2599f60.css",
+    "main.js": "/My-Portfolio/static/js/main.b3f720de.js",
+    "static/js/453.a7d99afe.chunk.js": "/My-Portfolio/static/js/453.a7d99afe.chunk.js",
     "static/media/logoT.png": "/My-Portfolio/static/media/logoT.71aa17476baeb2fbe3eb.png",
     "static/media/cv.pdf": "/My-Portfolio/static/media/cv.3e54b74a6279b140611e.pdf",
     "static/media/bg.jpeg": "/My-Portfolio/static/media/bg.7e319d889c2b42192b19.jpeg",
@@ -21,14 +21,13 @@
     "static/media/download.png": "/My-Portfolio/static/media/download.3414d1a15292a302f0d1.png",
     "static/media/Digital_clock.jpg": "/My-Portfolio/static/media/Digital_clock.2a4e100e65284def35f0.jpg",
     "static/media/ui-design.png": "/My-Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
-    "static/media/instagram.png": "/My-Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/My-Portfolio/index.html",
-    "main.0324b109.css.map": "/My-Portfolio/static/css/main.0324b109.css.map",
-    "main.8eff5b51.js.map": "/My-Portfolio/static/js/main.8eff5b51.js.map",
-    "453.3f1fb51b.chunk.js.map": "/My-Portfolio/static/js/453.3f1fb51b.chunk.js.map"
+    "main.f2599f60.css.map": "/My-Portfolio/static/css/main.f2599f60.css.map",
+    "main.b3f720de.js.map": "/My-Portfolio/static/js/main.b3f720de.js.map",
+    "453.a7d99afe.chunk.js.map": "/My-Portfolio/static/js/453.a7d99afe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0324b109.css",
-    "static/js/main.8eff5b51.js"
+    "static/css/main.f2599f60.css",
+    "static/js/main.b3f720de.js"
   ]
 }
