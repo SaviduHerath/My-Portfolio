@@ -1,7 +1,7 @@
 import React from 'react'
 import './skill.css'
 import WebDesign from '../../assets/website-design.png'
-import AppDesign from '../../assets/ui-design.png'
+
 
 
 

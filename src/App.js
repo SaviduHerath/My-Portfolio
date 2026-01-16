@@ -1,3 +1,4 @@
+import './style.css';
 
 import './App.css';
 import Contact from './components/Contact/contact.js';
