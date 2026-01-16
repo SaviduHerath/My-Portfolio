@@ -3,7 +3,7 @@ import './intro.css'
 import {Link} from 'react-scroll'
 import download from '../../assets/download.png'
 import bg from '../../assets/bg.jpeg'
-import cv from '../../assets/cv.pdf'
+import cvn from '../../assets/cvn.pdf'
 
 
 const Intro = () => {
@@ -16,7 +16,7 @@ const Intro = () => {
             <p className='introPara'> I build efficient and creative software solutions. Explore my projects, skills, and experience.
               <br></br>
             </p>
-             <a href={cv} download className="btn">
+             <a href={cvn} download className="btn">
                 <img className="hirebtn" src={download} alt="Hire me" />
                        Download CV
             </a>
